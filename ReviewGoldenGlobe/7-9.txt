@@ -1,0 +1,11 @@
+7.Explain what the data was. How many variables? How many observations? What dates are included in the data? Anything else interesting about the data.
+
+The data are Golden Globe Nominees’ (Celebrates and Movies) information and timelines.
+
+8.Identify the slides/graphics that most clearly addressed the main questions.
+
+Personally, the tweets heat map is the most compelling to me. It clearly shows when do celebrities tweet and the outcome is really interesting. For each element in heat map, the sample is large enough to convince us the conclusion is not just a coincidence.
+
+9.Identify the slides/graphics that least clearly addressed the main questions.
+
+The frequent words (19) may not be that convincing. Partially because the sample size is too small and it may be just by coincidence and because that the data cleaning has not been done so the outcome seems not that interesting. For instance, the most frequent word in each category are all RT, and I is the runner-up. I think it may be improved if we can remove those stop words and meaningless words.
